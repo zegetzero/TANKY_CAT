@@ -1,5 +1,4 @@
-# boring name: Python Password/message Encryption Tool
-# fun name: 🛡️ Chunkster: AES-256 Symmetric Encryption Utility 
+🛡️ Chunkster: AES-256 Symmetric Encryption Utility tool
 
 
 ## Overview
