@@ -19,5 +19,3 @@ Chunkster is a Python-based security tool designed to demonstrate robust credent
 2. Run the script:
    `python chunkster.py`
 
-## 📂 Forensic Note
-As a Cybersecurity student, I designed this to ensure high entropy in the resulting ciphertext. In a forensic image, this data would appear as randomized noise, providing zero leakage of the original plaintext structure.
